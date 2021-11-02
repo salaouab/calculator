@@ -12,5 +12,7 @@ public class Calculator {
                 return a * b;
         }
 
-	public static void main(String[] args) { }
+	public static int main(String[] args) {
+		return 0; 
+	}
 }
